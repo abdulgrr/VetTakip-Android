@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662778038323",
+    "project_id": "vettakipson",
+    "storage_bucket": "vettakipson.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662778038323:android:9b0274daa3883ab91a3b46",
+        "android_client_info": {
+          "package_name": "com.example.vettakipproje_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeH28H8XhxWr3QpsQ8RFpU4U8IAhRI39M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
